@@ -1,0 +1,14 @@
+/Users/hamidullahrezae/Desktop/Spring 2025/CAB201/RiderProjects/A2/A2/bin/Debug/net9.0/A2
+/Users/hamidullahrezae/Desktop/Spring 2025/CAB201/RiderProjects/A2/A2/bin/Debug/net9.0/A2.deps.json
+/Users/hamidullahrezae/Desktop/Spring 2025/CAB201/RiderProjects/A2/A2/bin/Debug/net9.0/A2.runtimeconfig.json
+/Users/hamidullahrezae/Desktop/Spring 2025/CAB201/RiderProjects/A2/A2/bin/Debug/net9.0/A2.dll
+/Users/hamidullahrezae/Desktop/Spring 2025/CAB201/RiderProjects/A2/A2/bin/Debug/net9.0/A2.pdb
+/Users/hamidullahrezae/Desktop/Spring 2025/CAB201/RiderProjects/A2/A2/obj/Debug/net9.0/A2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hamidullahrezae/Desktop/Spring 2025/CAB201/RiderProjects/A2/A2/obj/Debug/net9.0/A2.AssemblyInfoInputs.cache
+/Users/hamidullahrezae/Desktop/Spring 2025/CAB201/RiderProjects/A2/A2/obj/Debug/net9.0/A2.AssemblyInfo.cs
+/Users/hamidullahrezae/Desktop/Spring 2025/CAB201/RiderProjects/A2/A2/obj/Debug/net9.0/A2.csproj.CoreCompileInputs.cache
+/Users/hamidullahrezae/Desktop/Spring 2025/CAB201/RiderProjects/A2/A2/obj/Debug/net9.0/A2.dll
+/Users/hamidullahrezae/Desktop/Spring 2025/CAB201/RiderProjects/A2/A2/obj/Debug/net9.0/refint/A2.dll
+/Users/hamidullahrezae/Desktop/Spring 2025/CAB201/RiderProjects/A2/A2/obj/Debug/net9.0/A2.pdb
+/Users/hamidullahrezae/Desktop/Spring 2025/CAB201/RiderProjects/A2/A2/obj/Debug/net9.0/A2.genruntimeconfig.cache
+/Users/hamidullahrezae/Desktop/Spring 2025/CAB201/RiderProjects/A2/A2/obj/Debug/net9.0/ref/A2.dll
