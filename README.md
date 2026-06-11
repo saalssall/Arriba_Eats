@@ -585,4 +585,3 @@ This project demonstrates:
 
 ---
 
-**Made with ❤️ for food delivery excellence**
